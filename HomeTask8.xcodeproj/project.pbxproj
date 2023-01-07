@@ -16,6 +16,8 @@
 		A91C51912969A0E700858ADC /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A91C51902969A0E700858ADC /* ThirdViewController.swift */; };
 		A91C51932969A10D00858ADC /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A91C51922969A10D00858ADC /* FourthViewController.swift */; };
 		A91C51952969A13600858ADC /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A91C51942969A13600858ADC /* FifthViewController.swift */; };
+		A91C51972969A8E300858ADC /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = A91C51962969A8E300858ADC /* Student.swift */; };
+		A91C51992969A95B00858ADC /* StudentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A91C51982969A95B00858ADC /* StudentViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		A91C51902969A0E700858ADC /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		A91C51922969A10D00858ADC /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 		A91C51942969A13600858ADC /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		A91C51962969A8E300858ADC /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		A91C51982969A95B00858ADC /* StudentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,7 @@
 				A91C518229699FC900858ADC /* Assets.xcassets */,
 				A91C518429699FC900858ADC /* LaunchScreen.storyboard */,
 				A91C518729699FC900858ADC /* Info.plist */,
+				A91C51962969A8E300858ADC /* Student.swift */,
 			);
 			path = HomeTask8;
 			sourceTree = "<group>";
@@ -80,6 +85,7 @@
 				A91C51902969A0E700858ADC /* ThirdViewController.swift */,
 				A91C51922969A10D00858ADC /* FourthViewController.swift */,
 				A91C51942969A13600858ADC /* FifthViewController.swift */,
+				A91C51982969A95B00858ADC /* StudentViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -159,7 +165,9 @@
 				A91C518F2969A0AF00858ADC /* SecondViewController.swift in Sources */,
 				A91C517E29699FC800858ADC /* ViewController.swift in Sources */,
 				A91C51912969A0E700858ADC /* ThirdViewController.swift in Sources */,
+				A91C51992969A95B00858ADC /* StudentViewController.swift in Sources */,
 				A91C517A29699FC800858ADC /* AppDelegate.swift in Sources */,
+				A91C51972969A8E300858ADC /* Student.swift in Sources */,
 				A91C51932969A10D00858ADC /* FourthViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
